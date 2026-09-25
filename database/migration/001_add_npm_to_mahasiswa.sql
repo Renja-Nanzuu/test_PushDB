@@ -1,0 +1,2 @@
+ALTER TABLE mahasiswa
+ADD COLUMN npm VARCHAR(20);
